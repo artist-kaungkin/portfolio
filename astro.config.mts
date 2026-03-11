@@ -3,8 +3,8 @@ import tailwindcss from '@tailwindcss/vite';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://Thutatun-90.github.io',
-	base: '/portfolio2/',
+	site: 'https://artist-kaungkin.github.io',
+	base: '/kkportfolio/',
 	vite: {
 		plugins: [tailwindcss()],
 	},
