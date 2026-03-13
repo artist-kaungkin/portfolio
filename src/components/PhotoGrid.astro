@@ -26,16 +26,16 @@ const { images } = Astro.props;
 				data-glightbox={image.description ? `title: ${image.description}` : undefined}
 			>
 				<Image
-					  src={image.src}
-					  quality={90}
-					  format="webp"
-					  width={image.src.width}
-					  height={image.src.height}
-					  loading="lazy"
-					  decoding="async"
-					  class="w-full h-full object-cover rounded-sm shadow-sm transition-all duration-500 group-hover:scale-[1.05] group-hover:shadow-[0_12px_35px_rgba(0,0,0,0.45)]"
-					  alt={image.title}
-				/>
+  src={image.src}
+  quality={80}
+  format="webp"
+  width={800}
+  sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
+  loading="lazy"
+  decoding="async"
+  class="w-full h-full object-cover rounded-sm shadow-sm transition-all duration-500 group-hover:scale-[1.05] group-hover:shadow-[0_12px_35px_rgba(0,0,0,0.45)]"
+  alt={image.title}
+/>
 			</a>
 		))
 	}
@@ -44,3 +44,4 @@ const { images } = Astro.props;
 <script>
 	import '../scripts/photo-grid';
 </script>
+
