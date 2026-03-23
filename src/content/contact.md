@@ -13,3 +13,7 @@ title: Contact
 **Facebook**
 
 [facebook.com/cartoon.kaungkin](https://www.facebook.com/cartoon.kaungkin/)
+
+**TikTok**
+
+[tiktok.com/@artistkaungkin](https://www.tiktok.com/@artistkaungkin)

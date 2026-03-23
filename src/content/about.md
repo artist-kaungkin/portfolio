@@ -4,13 +4,9 @@ title: About
 
 ## Artist Statement
 
-My work explores storytelling through image. I move between painting, comics, and illustration, using traditional drawing techniques and narrative composition to express moments of everyday life, memory, and imagination.
+I am a painter with a deep love for watercolor. My work focuses on different techniques and detailed compositions, which I have shared through various art exhibitions. I enjoy the process of bringing ideas to life, whether through traditional painting or digital design.
 
-Trained in fine art, my practice began with painting and drawing, but gradually expanded into visual storytelling through comics, graphic design, and book illustration. I am interested in how simple images can communicate emotion, character, and atmosphere without relying heavily on words.
-
-Drawing is the foundation of my process. Pencil, ink, and watercolor allow me to build form and rhythm, while narrative structure guides the viewer through a scene. Whether creating paintings or sequential images, I aim to balance craftsmanship with storytelling.
-
-Through my work, I hope to capture quiet human experiences and translate them into visual language that is both personal and accessible.
+I work with both hand-drawn and digital tools. I often draw comics by hand and then use Photoshop to create illustrations, book covers, and logos. Beyond my own creative work, I have a passion for teaching; I have opened classes to share the fundamentals of drawing and watercolor with others.
 
 ---
 
@@ -27,7 +23,9 @@ He has participated in several group exhibitions and held his first solo exhibit
 ## Selected Highlights
 
 - First Solo Exhibition — HANDS Art Gallery (2022)  
-- Publisher & Designer — Mee Mee Eaim Publishing House  
+- Publisher & Designer — Mee Mee Eaim Publishing House
+- Freelance Illustrator — Red Cross
+- Freelance Illustrator — Unicef  
 - Freelance Designer — Red Line Media & Advertising  
 - Freelance Designer — Mango Media & Advertising  
 - Art Teacher  
